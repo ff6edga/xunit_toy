@@ -12,9 +12,8 @@ numberOfReviewers: 1
 useReviewGroups: true
  
 # A list of reviewers, split into different groups, to be added to pull requests (GitHub user name)
-reviewGroups:
-  2wd-server:
-    - ff6edga
+reviewers:
+  - ff6edga
  
 # Hoxy gitmoji를 여기에 ??
 # A list of keywords to be skipped the process that add reviewers if pull requests include it
